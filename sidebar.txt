@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kol:home|Door43 (kol)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kol|d43-kol repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kol/archive/master.zip|d43-kol.zip]]
+
+**Recent Changes**
+{{changes>ns = kol}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kol|Ethnologue data]]
+
